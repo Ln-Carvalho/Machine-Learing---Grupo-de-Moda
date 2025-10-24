@@ -3,10 +3,10 @@ import sys
 
 # --- 1. CONFIGURAÇÃO ---
 # Nome do arquivo CSV que você anexou
-arquivo_entrada = "DataSet (N Tratado) Primavera Verao 25.csv"
+arquivo_entrada = "prim_ver_24(n tratado).csv"
 
 # Nome do arquivo que vamos criar
-arquivo_saida = "dataset_tratado_pv25.csv"
+arquivo_saida = "dataset_tratado_pv24.csv"
 
 print(f"Iniciando tratamento do arquivo: {arquivo_entrada}")
 
